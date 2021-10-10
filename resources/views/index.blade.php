@@ -4,7 +4,7 @@
     </x-slot>
 
 
-    <h1>My BBS</h1>
+    <h1>〜My BBS〜</h1>
     <ul>
         @forelse ($posts as $index => $post)
             <li>
